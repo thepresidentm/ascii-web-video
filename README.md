@@ -2,6 +2,8 @@
 
 This is an experiment.
 
+**Note:** The original video has 7533 frames but GitHub only allows under 1000.
+
 ## Tools used
 
 * JP2A
