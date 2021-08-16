@@ -24,7 +24,7 @@ In order to change the video speed go to the JavaScript file, there are two vari
 
 ## Make another video
 
-1. In **frames.sh** change _darken.mp4_ to the name of your file and the _7530_, this corresponds at the humber of frames of the video and run it.
+1. In **frames.sh** change _darken.mp4_ to the name of your file, the _7530_ (this corresponds to the humber of frames of the video) and run it.
 
 2. Go to **frames.sh**, change the _7530_ in the _for loop_ and run it.
 
